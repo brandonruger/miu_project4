@@ -1,0 +1,57 @@
+/* Brandon Ruger
+ * Project 3
+ * MiU 1310 */
+
+
+a:hover{color: white; outline: groove;}
+
+#Ryder {
+    width: 95%;
+    max-height: 18%;    
+}
+
+#cat {
+    max-width: 80%;
+    max-height: 80%;
+}
+
+#dog {
+    max-width: 80%;
+    max-height: 80%;
+}
+
+#bird {
+    max-width: 80%;
+    max-height: 80%;
+}
+
+#horse {
+    max-width: 80%;
+    max-height: 80%;
+}
+
+label.error{
+    display: block;
+    margin: 10px 0;
+    color: red;
+}
+
+#errorMsgs{
+    display: none;
+}
+
+#clearButton{
+    max-width: 25%;
+    max-height: 25%;
+    margin: 10px 10px;
+}
+
+.inputHint{
+    margin: 0px;
+    padding: 0px;
+    font: 10pt Helvetica;
+}
+
+#cancelLink{
+    margin-left: 80%;
+}
