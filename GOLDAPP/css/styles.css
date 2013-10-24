@@ -55,3 +55,9 @@ label.error{
 #cancelLink{
     margin-left: 80%;
 }
+
+#logo{
+    max-width: 10%;
+    max-height: 10%;
+    margin-right: 5px;
+}
