@@ -1,6 +1,6 @@
 /*Brandon Ruger
  *MiU 1310
- *Project 3 */
+ *Project 4 */
 
 
 $('#home').on('pageinit', function(){
