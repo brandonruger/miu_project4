@@ -36,7 +36,7 @@ a:hover{color: white; outline: groove;}
     font: 10pt Helvetica;
 }
 
-#logo{
-    width: 25%;
-    height: 25%;
+.logo{
+    width: 15%;
+    height: 15%;
 }
