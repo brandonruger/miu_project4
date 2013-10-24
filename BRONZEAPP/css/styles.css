@@ -35,3 +35,8 @@ a:hover{color: white; outline: groove;}
     padding: 0px;
     font: 10pt Helvetica;
 }
+
+#logo{
+    width: 25%;
+    height: 25%;
+}

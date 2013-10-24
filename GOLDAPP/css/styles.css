@@ -57,7 +57,6 @@ label.error{
 }
 
 #logo{
-    max-width: 10%;
-    max-height: 10%;
-    margin-right: 5px;
+    width: 15%;
+    height: 15%;
 }
